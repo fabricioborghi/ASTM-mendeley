@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
   <!--
-    Estilo personalizado baseado no ASTM Style Manual 2024.
+    Estilo personalizado baseado no ASTM Style Manual 2024 para Mendeley Desktop 2019.
     Criado para uso no Mendeley Desktop.
     Estrutura geral baseada no estilo Vancouver com adaptações.
     Comentários foram incluídos para facilitar futuras modificações.
   -->
   <info>
-    <title>ASTM Style Manual 2024 Mendeley Desktop</title>
+    <title>ASTM Style Manual 2024 Mendeley Desktop 2019</title>
     <id>http://www.zotero.org/styles/astm-style-manual-2024</id>
     <link href="http://www.astm.org/" rel="documentation"/>
     <author>
